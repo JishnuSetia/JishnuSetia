@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JishnuSetia
 - 👀 I’m interested in Coding and Developing
-- 🌱 I’m currently learning in High School
+- 🌱 I’m currently studying in High School
 - 📫 How to reach me ... jishnusetia8@gmail.com
 
 <!---
