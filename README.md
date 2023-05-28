@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @JishnuSetia
 - 👀 I’m interested in Coding and Developing
+- 👨‍💻 I can code in many languages (HTML, CSS, Javascript, Python, Java, C, SQL)
+- ☕️ My primary coding language is Java
 - 🌱 I’m currently studying in High School
 - 📫 How to reach me ... jishnusetia8@gmail.com
 
