@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JishnuSetia
+- 👋 Hi, I’m Jishnu Setia
 - 👀 I’m interested in Coding and Developing
 - 👨‍💻 I can code in many languages (HTML, CSS, Javascript, Python, Java, C, SQL)
 - ☕️ My primary coding language is Java
