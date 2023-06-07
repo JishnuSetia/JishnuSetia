@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jishnu Setia
 - 👀 I’m interested in Coding and Developing
-- 👨‍💻 I can code in many languages (HTML, CSS, Javascript, Python, Java, C, SQL)
+- 👨‍💻 I can code in many languages
 - ☕️ My primary coding language is Java
-- 🌱 I’m currently studying in High School
+- 🌱 I’m currently studying in GEMS Modern Academy
 - 📫 How to reach me ... jishnusetia8@gmail.com
 
 <!---
