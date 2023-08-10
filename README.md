@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Developing
 - 👨‍💻 I can code in many languages
 - ☕️ My primary coding language is Java
-- 🌱 I’m currently studying in GEMS Modern Academy
+- 🌱 I’m currently studying at GEMS Modern Academy
 - 📫 How to reach me ... jishnusetia8@gmail.com
 
 <!---
