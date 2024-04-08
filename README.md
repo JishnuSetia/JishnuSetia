@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jishnu Setia
 - 👀 I’m interested in Coding and Development
 - 👨‍💻 I can code in many languages
-- ☕️ My primary coding language is Java
 - 🌱 I’m currently studying at GEMS Modern Academy
 - 📫 How to reach me ... jishnusetia8@gmail.com
 
