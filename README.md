@@ -72,5 +72,12 @@ I'm a full-stack developer passionate about various fields in computer science a
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
-[![Jishnu's Github Stats](https://github-readme-stats.vercel.app/api?username=JishnuSetia)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuSetia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center;align-items:center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JishnuSetia" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuSetia&layout=compact" />
+    </a>
+</div>
+
