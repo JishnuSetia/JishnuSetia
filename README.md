@@ -9,6 +9,7 @@ I'm a full-stack developer passionate about various fields in computer science a
 ## About Me
 - 👨‍💻 I can code in many languages
 - 🌱 Currently studying at GEMS Modern Academy
+- 🌐 Check out my portfolio at [https://jishnu-setia.surge.sh/](https://jishnu-setia.surge.sh/)
 - 📫 You can reach me at [jishnusetia8@gmail.com](mailto:jishnusetia8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jishnu-setia-0380a5217/)
 
 ## Tools & Technologies
