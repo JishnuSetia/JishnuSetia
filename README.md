@@ -78,7 +78,7 @@ I'm a full-stack developer passionate about various fields in computer science a
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=JishnuSetia&show_icons=true&bg_color=070707&rank_icon=github" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuSetia&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuSetia&layout=compact&bg_color=070707" />
     </a>
 </div>
 
