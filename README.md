@@ -2,83 +2,240 @@
 JishnuSetia/JishnuSetia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hello there! 👋 I’m Jishnu Setia
+<div align="center">
 
-I'm a full-stack developer passionate about various fields in computer science and coding. With a strong foundation in multiple programming languages and technologies, I thrive in areas including web development, AI, machine learning, game development, and app development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:2563EB&height=190&section=header&text=Jishnu%20Setia&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20University%20of%20Waterloo&descSize=17&descAlignY=58&animation=fadeIn" width="100%" style="margin-bottom:-5%">
 
-## About Me
-- 👨‍💻 I can code in many languages
-- 🌱 Currently studying at University of Waterloo
-- 🌐 Check out my portfolio at [https://jishnusetia.surge.sh/](https://jishnusetia.surge.sh/)
-- 📫 You can reach me at [jishnusetia8@gmail.com](mailto:jishnusetia8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jishnu-setia-0380a5217/)
+### *“If you can dream it, I can make it.”*
 
-## Tools & Technologies
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/SWIFT-ff6200?style=for-the-badge&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3C437C?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
-### Tools & Platforms
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=XAMPP&logoColor=white)
-![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-F89C0E?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-D86B01?style=for-the-badge&logo=vmware&logoColor=white)
-![Virtual Box](https://img.shields.io/badge/Virtual%20Box-89CFF0?style=for-the-badge&logo=virtualbox&logoColor=black)
+<a href="https://jishnusetia.surge.sh">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jishnu-setia-0380a5217/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jishnusetia8@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Operating Systems
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Development & Productivity Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-### Miscellaneous
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-0096FF?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
-
-<div style="display: flex; justify-content: center;align-items:center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=JishnuSetia&show_icons=true&bg_color=070707&rank_icon=github" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuSetia&layout=compact&bg_color=070707" />
-    </a>
 </div>
 
+---
+
+## About
+
+I'm a **Computer Science student at the University of Waterloo** focused on **artificial intelligence, machine learning, and software engineering**.
+
+I enjoy taking ideas from **concept to implementation**—whether that's building an AI system, designing a software platform, developing an API, or turning a real-world problem into a technical solution.
+
+My experience spans **AI/ML, computer vision, full-stack development, automation, SaaS, and intelligent systems**.
+
+---
+
+## Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### AI / ML
+
+Machine Learning
+Intelligent Systems
+Applied AI
+
+</td>
+
+<td align="center" width="25%">
+
+### Computer Vision
+
+Image Processing
+Video Processing
+Vision Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### Engineering
+
+Full-Stack
+APIs & Backend
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### Products
+
+SaaS
+Prototyping
+Real-World Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+### AI & Machine Learning Intern
+
+**Digital Lab · Dubai, UAE**
+`Sep 2026 — Present`
+
+Working on AI/ML initiatives and software solutions, applying machine learning and software engineering to practical problems in a real-world development environment.
+
+---
+
+### IT / AI Intern
+
+**Lamborghini Abu Dhabi & Dubai · Dubai, UAE**
+`May 2025 — Jul 2025`
+
+Built AI-driven workflows and a task management system to streamline HR operations under the Head of Digital Reforms.
+
+---
+
+### Co-Founder & CTO
+
+**EunoKinetiX · Dubai, UAE**
+`Mar 2023 — Apr 2025`
+
+Founded and led a B2B SaaS startup focused on **AI-powered fleet management and route optimization**.
+
+The platform explored predictive and generative AI for route optimization and payload allocation, with the goal of improving operational efficiency and reducing logistics costs and emissions.
+
+---
+
+### Co-Founder & CTO
+
+**Student2Success · Dubai, UAE**
+`Mar 2024 — May 2025`
+
+Developed a student-focused platform designed to connect students with mentors and career guidance resources.
+
+---
+
+### Intern
+
+**Decoding Data Science · Dubai, UAE**
+`Jul 2025`
+
+Conducted technical workshops and supported event operations, including the **“n8n in 30”** automation session.
+
+---
+
+## Research & Publications
+
+### Revolutionizing Logistics and Fleet Management
+
+**IJISRT · September 2024**
+
+Research exploring the impact of **EunoKinetiX**, an AI-powered fleet management and route optimization platform, with a focus on operational efficiency, resource allocation, sustainability, and logistics optimization.
+
+[**Read publication →**](https://www.ijisrt.com/revolutionizing-logistics-and-fleet-management-a-comprehensive-analysis-of-the-impact-of-eunokinetix-on-operational-efficiency-and-societal-dynamics)
+
+---
+
+### Explainable AI: Methods and Applications
+
+**IJISRT · October 2023**
+
+An overview of **Explainable Artificial Intelligence (XAI)**, examining methods for improving the interpretability and transparency of AI systems and their applications across real-world domains.
+
+[**Read publication →**](https://ijisrt.com/explainable-ai-methods-and-applications)
+
+---
+
+## Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,php,swift,rust" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,firebase,supabase,fastapi" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,windows,vscode" />
+
+</div>
+
+---
+
+## Building
+
+I've built **55+ projects** across different areas of computer science.
+
+My work ranges from AI and computer vision systems to full-stack applications, APIs, automation tools, and experimental software.
+
+I don't restrict myself to a particular stack.
+
+**The problem determines the technology.**
+
+<div align="center">
+
+<a href="https://github.com/JishnuSetia?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JishnuSetia&theme=github_dark" width="100%"/>
+
+<br>
+
+<div style="display:flex;align-items:center;justify-content:space-between">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JishnuSetia&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JishnuSetia&theme=github_dark" width="48%"/>
+</div>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://jishnusetia.surge.sh">
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jishnu-setia-0380a5217/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JishnuSetia">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:jishnusetia8@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Build what you imagine.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0F172A&height=100&section=footer" width="100%"/>
